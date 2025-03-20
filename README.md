@@ -8,7 +8,7 @@ A **pixel-perfect** 🎨 clone of the Usability Hub website built using **HTML &
 ✅ **Clean & structured code** for easy customization 🎨  
 
 ## 🔗 Live Demo  
-👉 **[View Project](https://your-netlify-link-here/)**  
+👉 **[View Project]( https://usablity-hub-clone.netlify.app/ )**  
 
 ## 🛠️ Technologies Used  
 🖥️ **HTML5** – For structured content  
@@ -19,4 +19,4 @@ A **pixel-perfect** 🎨 clone of the Usability Hub website built using **HTML &
    ```sh
  https://github.com/Nafay-Aftab/UsabilityHub-Clone
 
-🔗 View Live Demo: https://usablity-hub-clone.netlify.app/ 
+
